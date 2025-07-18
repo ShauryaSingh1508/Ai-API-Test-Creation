@@ -26,6 +26,18 @@ An open-source AI Agent that automatically generates an automation framework fro
    cd api-automation-agent
    ```
 
+2. Create your local .venv environment in VSCode/Intellij
+
+3. Install additional Python dependencies required for LLM integrations:
+
+   ```bash
+   python -m pip install langchain-google-genai
+   python -m pip install langchain_openai
+   python -m pip install langchain_anthropic
+   python -m pip install langchain_core
+   python -m pip install json_repair
+   ```
+
 2. Install Python dependencies:
 
    ```bash
