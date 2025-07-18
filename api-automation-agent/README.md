@@ -22,8 +22,13 @@ An open-source AI Agent that automatically generates an automation framework fro
 1. Clone the repository:
 
    ```bash
+   # Clone the official repository
    git clone https://github.com/TestCraft-App/api-automation-agent.git
    cd api-automation-agent
+
+   # Or, to clone this fork:
+   git clone https://github.com/ShauryaSingh1508/Ai-API-Test-Creation.git
+   cd Ai-API-Test-Creation
    ```
 
 2. Create your local .venv environment in VSCode/Intellij
